@@ -10,4 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void getOnClick(){
+        for(int i = 0;i<10;i++){
+            System.out.print("fjhefhojfjfpejfopjjjlj");
+        }
+    }
 }
